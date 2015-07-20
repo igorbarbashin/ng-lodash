@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/igorbarbashin/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rockabox/ng-lodash/issues"
+    "url": "https://github.com/igorbarbashin/ng-lodash/issues"
   },
   "homepage": "https://github.com/rockabox/ng-lodash",
   "devDependencies": {
